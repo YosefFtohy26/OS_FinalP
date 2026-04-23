@@ -101,3 +101,8 @@ All execution uses the required system calls:
 | (Member 3) | (ID) | Parts 5, 6 — Process management |
 | (Member 4) | (ID) | Parts 7, 8 — I/O redirection & pipes |
 | (Member 5) | (ID) | Parts 9, 10 — Signal handling, Makefile, integration |
+| (Member 1) | (ID) | Parts 1, 2 — Main loop & parser |
+| (Member 2) | (ID) | Parts 3, 4 — Built-in commands & history |
+| (Member 3) | (ID) | Parts 5, 6 — Process management |
+| (Member 4) | (ID) | Parts 7, 8 — I/O redirection & pipes |
+| (Member 5) | (ID) | Parts 9, 10 — Signal handling, Makefile, integration |
